@@ -5,11 +5,19 @@
 
 .Titulo {
     font-size: 1.8em;
-    margin: 0em;
+}
+
+.Titulo2 {
+    font-size: 2.2em;
 }
 
 .Texto {
     font-size: 1.3em;
+}
+
+.Texto2 {
+    font-size: 1.6em;
+    text-align: start;
 }
 
 .button button {
@@ -33,4 +41,13 @@
     gap: 1.5em;
     border-radius: 1em;
 }
+
+.Grid3 {
+    display: grid;
+    grid-template-columns: auto auto;
+    place-content: center;
+    margin: 6em;
+    gap: 10em;
+}
+
 
