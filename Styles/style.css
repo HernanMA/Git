@@ -29,4 +29,8 @@
 .Grid2 {
     display: grid;
     grid-template-columns: auto auto auto auto;
+    place-content: center;
+    gap: 1.5em;
+    border-radius: 1em;
 }
+
