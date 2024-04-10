@@ -1,0 +1,28 @@
+.body {
+    padding: 0;
+    margin: 0;
+}
+
+.Titulo {
+    font-size: 1.8em;
+    margin: 0em;
+}
+
+.Texto {
+    font-size: 1.3em;
+}
+
+.button button {
+    font-size: 1.2em;
+    padding: .7em;
+    border-radius: .6em;
+    background-color: black;
+    color: white;
+}
+
+.Grid1 {
+    display: grid;
+    text-align: center;
+    margin: 1em 2em 4em;
+}
+
