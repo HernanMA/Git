@@ -26,3 +26,7 @@
     margin: 1em 2em 4em;
 }
 
+.Grid2 {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
